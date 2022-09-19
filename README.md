@@ -9,6 +9,7 @@ a) General Purpose web application development, using specially:
     - Python & Django (or Flask)
     - Java & WildFly (or Jetty)
     - PHP & Laravel (or Zend)
+    - C# & DotNet (in Azure)
     
 b) Cloud base web development, using specially:
 
@@ -33,11 +34,12 @@ d) SQL & NoSQL database projects and development, using specially:
 
 - 🌱 I’m currently mastering
 
-    - OCI
+    - C# GDI High Performance
 
 - 💞️ I’m looking to collaborate on
 
     - Cloud projects, using AWS, Azure, GCP or OCI
+    - Game Dev
 
 - 📫 How to reach me
 

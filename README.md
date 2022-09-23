@@ -23,6 +23,7 @@ c) Game development, using specially:
 
     - C++ & OpenGL (or SFML)
     - Java & Java2D & Java3D Graphic modes
+    - C# & GDI
     - Javascript (pure canvas)
     
 d) SQL & NoSQL database projects and development, using specially:

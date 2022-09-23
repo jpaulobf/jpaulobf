@@ -6,8 +6,9 @@
 
 a) General Purpose web application development, using specially:
 
-    - Python & Django (or Flask)
     - Java & WildFly (or Jetty)
+    - Java & Spring (Spring Initializr, Spring Boot, Spring Data) 
+    - Python & Django (or Flask)
     - PHP & Laravel (or Zend)
     - C# & DotNet (in Azure)
     
